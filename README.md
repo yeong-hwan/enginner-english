@@ -5,6 +5,7 @@
 - 궁금해서 그러는데, 이건 해봤어? 
 - 뭐 딱히 유용하진 않았나?
 
+  
 - There are various A-specific regkey **values**, but **not so comfortable** other components taking code dependencies on.
 - **I’d first like to understand** why C needs to distinguish between A vs B.
 - **There might be better ways** to do this than taking a regkey dependency depending on the requirement.
