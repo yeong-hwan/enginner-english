@@ -1,9 +1,9 @@
 # enginner-english
 
-- **Out of curiosity**, have you **attempted to** test the new version of your component in PDT?
+**Out of curiosity**, have you **attempted to** test the new version of your component in PDT?
+> 궁금해서 그러는데, 이건 해봤어?   
 - **Is that any good** for validation?
-- 궁금해서 그러는데, 이건 해봤어? 
-- 뭐 딱히 유용하진 않았나?
+> 뭐 딱히 유용하진 않았나?
 
   
 - There are various A-specific regkey **values**, but **not so comfortable** other components taking code dependencies on.
